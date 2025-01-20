@@ -22,7 +22,7 @@ KisanYojna is a platform aimed at providing easy access to various Government sc
 
 ## Team Contact
 
-- **Adi Hafeez**: Design & Front End ([adi.hafeez0@gmail.com](mailto:inquery.saurav@gmail.com))
+- **Adi Hafeez**: Design & Front End ([adi.hafeez0@gmail.com](mailto:adi.hafeez0@gmail.com))
 
 
 
